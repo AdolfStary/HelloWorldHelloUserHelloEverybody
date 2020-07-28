@@ -14,3 +14,7 @@ requests.
 ● Source code must be delivered to client
 
 ● Maintenance and new features to be handled by client’s nephew.
+
+## Trello Board Link
+
+https://trello.com/b/PZQ0mmiC/c-introduction-hello-world-hello-user-hello-everybody
